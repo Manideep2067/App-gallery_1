@@ -10,7 +10,7 @@ export interface App {
 export const apps: App[] = [
   {
     id: 1,
-    title: "Task Management Pro",
+    title: "secure -quiz-app",
     image: "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=600&h=400&fit=crop",
     link:"https://secure-quiz-app-git-main-manideep-ms-projects.vercel.app/",
     description: "A comprehensive task management application with real-time collaboration features."
